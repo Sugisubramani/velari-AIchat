@@ -1,0 +1,10 @@
+.hover-glow:hover {
+  background-color: #1b1b1b !important;
+  box-shadow: 0 0 8px #ffffff11;
+  transition: all 0.2s ease;
+}
+
+.delete-hover:hover {
+  background-color: #2a0000 !important;
+  color: #ff4d4d !important;
+}
